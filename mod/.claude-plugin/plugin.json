@@ -1,0 +1,6 @@
+{
+  "name": "session-hud",
+  "version": "0.1.0",
+  "description": "把上下文、token、缓存命中、TPS、费用、增删行数、耗时写给原生 statusLine 显示",
+  "types": "./types/index.d.ts"
+}

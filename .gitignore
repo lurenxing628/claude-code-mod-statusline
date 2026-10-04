@@ -1,0 +1,5 @@
+# 会话数据：mod 每秒写入 <会话 id>.json
+/*.json
+/*.txt
+*.bak
+node_modules/
